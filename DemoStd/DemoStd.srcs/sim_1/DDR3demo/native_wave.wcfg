@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_ddr3_native_demo" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+   </zoom_setting>
+   <column_width_setting>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="group1" type="group">
+      <obj_property name="label">01 Overview</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_native_demo/ui_clk" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/calib_done" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/done" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/pass" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/error_count" type="array" />
+      <wvobject fp_name="/tb_ddr3_native_demo/write_cmd_count" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/w_count" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/read_cmd_count" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/read_chunk_count" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/r_count" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group2" type="group">
+      <obj_property name="label">02 Write command</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_native_demo/app_en" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_rdy" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/write_fire" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_cmd" type="array">
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/app_addr" type="array">
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group3" type="group">
+      <obj_property name="label">03 Write data (256-bit)</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_native_demo/app_wdf_wren" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_wdf_rdy" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/write_fire" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_wdf_end" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_wdf_mask" type="array">
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/app_wdf_data" type="array">
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/write_word_fire" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/write_lane" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/write_word_number" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/write_word_data" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group4" type="group">
+      <obj_property name="label">04 Read command</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_native_demo/app_en" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_rdy" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/read_cmd_fire" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_cmd" type="array">
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/app_addr" type="array">
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group5" type="group">
+      <obj_property name="label">05 Read data and check</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_native_demo/app_rd_data_valid" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_rd_data_end" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/read_fire" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/app_rd_data" type="array">
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/read_word_fire" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/read_lane" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/read_word_number" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/read_word_data" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/read_word_expected" type="array">
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_native_demo/read_word_ok" type="logic" />
+   </wvobject>
+   <wvobject fp_name="group6" type="group">
+      <obj_property name="label">06 DDR model</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_native_demo/sys_rst" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/ui_rst" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/native_resetn" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/ddr_reset_n" type="logic" />
+      <wvobject fp_name="/tb_ddr3_native_demo/ddr_ck_p" type="array" />
+      <wvobject fp_name="/tb_ddr3_native_demo/model_ck_p" type="array" />
+      <wvobject fp_name="/tb_ddr3_native_demo/ddr_cke" type="array" />
+   </wvobject>
+</wave_config>

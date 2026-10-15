@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Oct 14 19:50:24 2026
+# Process ID: 13520
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim/xsim.dir/tb_ddr3_axi_demo_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim/xsim.dir/tb_ddr3_axi_demo_behav/webtalk/xsim_webtalk.tcl -notrace

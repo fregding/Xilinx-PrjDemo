@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Oct 10 20:41:43 2026
+# Process ID: 3556
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.runs/impl_1
+# Command line: vivado.exe -log practice1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source practice1.tcl -notrace
+# Log file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/impl_1/practice1.vdi
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source practice1.tcl -notrace

@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_ddr3_native_demo_behav/xsimk.exe -simmode gui -wdb tb_ddr3_native_demo_behav.wdb -simrunnum 0 -socket 37106
+Design successfully loaded
+Design Loading Memory Usage: 23660 KB (Peak: 23660 KB)
+Design Loading CPU Usage: 124 ms
+Simulation completed
+Simulation Memory Usage: 36896 KB (Peak: 36896 KB)
+Simulation CPU Usage: 2812 ms

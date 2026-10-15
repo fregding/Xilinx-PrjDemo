@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+  <wave_state>
+    <wave_state_file_version>1</wave_state_file_version>
+  </wave_state>
+  <wv object="/tb_scfifo_256x8/clk" display_name="clk" radix="bin"/>
+  <wv object="/tb_scfifo_256x8/srst" display_name="srst" radix="bin"/>
+  <wv object="/tb_scfifo_256x8/pi_flag" display_name="pi_flag" radix="bin"/>
+  <wv object="/tb_scfifo_256x8/pi_data" display_name="pi_data" radix="hex"/>
+  <wv object="/tb_scfifo_256x8/rd_en" display_name="rd_en" radix="bin"/>
+  <wv object="/tb_scfifo_256x8/full" display_name="full" radix="bin"/>
+  <wv object="/tb_scfifo_256x8/empty" display_name="empty" radix="bin"/>
+  <wv object="/tb_scfifo_256x8/data_count" display_name="data_count" radix="unsigned"/>
+  <wv object="/tb_scfifo_256x8/dout" display_name="dout" radix="hex"/>
+  <wv object="/tb_scfifo_256x8/write_count" display_name="write_count" radix="unsigned"/>
+  <wv object="/tb_scfifo_256x8/read_count" display_name="read_count" radix="unsigned"/>
+  <wv object="/tb_scfifo_256x8/error_count" display_name="error_count" radix="unsigned"/>
+</wave_config>

@@ -1,0 +1,81 @@
+sv xpm --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/map" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ip_top" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal" \
+"C:/Xilinx/Vivado/2020.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv" \
+
+verilog blk_mem_gen_v8_4_4 --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/map" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ip_top" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal" \
+"../../../ipstatic/simulation/blk_mem_gen_v8_4.v" \
+
+verilog xil_defaultlib --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/map" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ip_top" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/bd_0/ip/ip_6/sim/bd_9fae_lmb_bram_I_0.v" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/bd_0/ip/ip_9/sim/bd_9fae_second_lmb_bram_I_0.v" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/bd_0/sim/bd_9fae.v" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_0/sim/native_ddr3_bfm_microblaze_mcs.v" \
+
+sv xil_defaultlib --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/map" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ip_top" --include "../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/phy/native_ddr3_bfm_phy_ddr3.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/phy/ddr3_phy_v1_4_xiphy_behav.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/phy/ddr3_phy_v1_4_xiphy.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/iob/ddr3_phy_v1_4_iob_byte.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/iob/ddr3_phy_v1_4_iob.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/clocking/ddr3_phy_v1_4_pll.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/xiphy_files/ddr3_phy_v1_4_xiphy_tristate_wrapper.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/xiphy_files/ddr3_phy_v1_4_xiphy_riuor_wrapper.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/xiphy_files/ddr3_phy_v1_4_xiphy_control_wrapper.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/xiphy_files/ddr3_phy_v1_4_xiphy_byte_wrapper.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/xiphy_files/ddr3_phy_v1_4_xiphy_bitslice_wrapper.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/ip_1/rtl/ip_top/native_ddr3_bfm_phy.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_wtr.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ref.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_rd_wr.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_periodic.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_group.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ecc_merge_enc.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ecc_gen.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ecc_fi_xor.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ecc_dec_fix.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ecc_buf.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ecc.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_ctl.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_cmd_mux_c.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_cmd_mux_ap.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_arb_p.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_arb_mux_p.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_arb_c.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_arb_a.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_act_timer.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc_act_rank.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/controller/ddr3_v1_4_mc.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ui/ddr3_v1_4_ui_wr_data.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ui/ddr3_v1_4_ui_rd_data.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ui/ddr3_v1_4_ui_cmd.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ui/ddr3_v1_4_ui.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/clocking/ddr3_v1_4_infrastructure.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_xsdb_bram.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_write.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_wr_byte.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_wr_bit.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_sync.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_read.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_rd_en.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_pi.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_odt.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_mc_odt.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_debug_microblaze.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_cplx_data.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_cplx.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_config_rom.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_bfifo.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_addr_decode.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_top.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal_xsdb_arbiter.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_cal.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_chipscope_xsdb_slave.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/ddr3_v1_4_dp_AB9.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ip_top/native_ddr3_bfm_ddr3.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ip_top/native_ddr3_bfm_ddr3_mem_intfc.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/cal/native_ddr3_bfm_ddr3_cal_riu.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/rtl/ip_top/native_ddr3_bfm.sv" \
+"../../../../native_ddr3_bfm_ex.srcs/sources_1/ip/native_ddr3_bfm/tb/microblaze_mcs_0.sv" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

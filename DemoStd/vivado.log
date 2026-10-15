@@ -1,0 +1,98 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Oct 13 20:47:44 2026
+# Process ID: 22408
+# Current directory: D:/code/SystemVerilog/DemoStd
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26920 D:\code\SystemVerilog\DemoStd\DemoStd.xpr
+# Log file: D:/code/SystemVerilog/DemoStd/vivado.log
+# Journal file: D:/code/SystemVerilog/DemoStd\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/code/SystemVerilog/DemoStd/DemoStd.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:06 . Memory (MB): peak = 1071.328 ; gain = 0.000
+update_compile_order -fileset sources_1
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [USF-XSim-7] Finding pre-compiled libraries...
+INFO: [USF-XSim-11] File 'C:/Xilinx/Vivado/2020.1/data/xsim/xsim.ini' copied to run dir:'D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-50] Design contains embedded sources, generating MEM files for simulation...
+WARNING: [Memdata 28-176] There are no bmm files or elf files. Therefore Vivado could not produce any .mem files. Check the design for the existence of processors and associated elf files.
+INFO: [SIM-utils-54] Inspecting design source files for 'tb_i2c_master' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim'
+"xvlog --incr --relax -prj tb_i2c_master_vlog.prj"
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/code/SystemVerilog/DemoStd/DemoStd.srcs/sources_1/LowSpeedPeripheral/i2c_master.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_master
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/code/SystemVerilog/DemoStd/DemoStd.srcs/LowSpeedPeripheral/tb_i2c_master.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_master_checker
+INFO: [VRFC 10-311] analyzing module tb_i2c_master
+INFO: [USF-XSim-69] 'compile' step finished in '3' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim'
+"xelab -wto 7ff41624e3064dec9eef4b06c3eea123 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_i2c_master_behav xil_defaultlib.tb_i2c_master xil_defaultlib.glbl -log elaborate.log"
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 7ff41624e3064dec9eef4b06c3eea123 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_i2c_master_behav xil_defaultlib.tb_i2c_master xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.i2c_master(STRETCH_TIMEOUT_CYCLE...
+Compiling module xil_defaultlib.i2c_master_checker_default
+Compiling module xil_defaultlib.i2c_master(DATA_BITS=16,STRETCH_...
+Compiling module xil_defaultlib.i2c_master_checker(DATA_BITS=16)
+Compiling module xil_defaultlib.i2c_master(REG_BITS=16,STRETCH_T...
+Compiling module xil_defaultlib.i2c_master_checker(REG_BITS=16)
+Compiling module xil_defaultlib.i2c_master(REG_BITS=16,DATA_BITS...
+Compiling module xil_defaultlib.i2c_master_checker(REG_BITS=16,D...
+Compiling module xil_defaultlib.i2c_master(I2C_HZ=400000,REG_BIT...
+Compiling module xil_defaultlib.i2c_master_checker(REG_BITS=16,D...
+Compiling module xil_defaultlib.tb_i2c_master
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_i2c_master_behav
+run_program: Time (s): cpu = 00:00:00 ; elapsed = 00:00:05 . Memory (MB): peak = 1270.105 ; gain = 0.000
+INFO: [USF-XSim-69] 'elaborate' step finished in '5' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "tb_i2c_master_behav -key {Behavioral:sim_1:Functional:tb_i2c_master} -tclbatch {tb_i2c_master.tcl} -protoinst "protoinst_files/bd_994a.protoinst" -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.1
+INFO: [Wavedata 42-565] Reading protoinst file protoinst_files/bd_994a.protoinst
+WARNING: [Wavedata 42-558] Couldn't load one or more protocol instances from protoinst file protoinst_files/bd_994a.protoinst for the following reason(s):
+There are no instances of module "bd_994a" in the design.
+
+Time resolution is 1 ps
+source tb_i2c_master.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+xsim: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1282.105 ; gain = 12.000
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'tb_i2c_master_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:16 ; elapsed = 00:00:16 . Memory (MB): peak = 1282.105 ; gain = 15.121
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Oct 13 20:49:10 2026...

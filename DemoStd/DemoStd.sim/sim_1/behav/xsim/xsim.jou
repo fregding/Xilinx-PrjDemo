@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# xsim v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Oct 15 14:49:30 2026
+# Process ID: 21416
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim
+# Command line: xsim.exe -log C:\Users\tbt16\AppData\Local\Temp\native_wave_verify.log -mode tcl -source {xsim.dir/tb_ddr3_native_demo_behav/xsim_script.tcl}
+# Log file: C:/Users/tbt16/AppData/Local/Temp/native_wave_verify.log
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/tb_ddr3_native_demo_behav/xsim_script.tcl
+open_wave_config D:/code/SystemVerilog/DemoStd/DemoStd.srcs/sim_1/DDR3demo/native_wave.wcfg
+source tb_ddr3_native_demo.tcl

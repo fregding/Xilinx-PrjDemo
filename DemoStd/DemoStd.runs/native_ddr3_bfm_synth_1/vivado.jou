@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Oct 14 21:12:45 2026
+# Process ID: 18164
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.runs/native_ddr3_bfm_synth_1
+# Command line: vivado.exe -log native_ddr3_bfm.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source native_ddr3_bfm.tcl
+# Log file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/native_ddr3_bfm_synth_1/native_ddr3_bfm.vds
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/native_ddr3_bfm_synth_1\vivado.jou
+#-----------------------------------------------------------
+source native_ddr3_bfm.tcl -notrace

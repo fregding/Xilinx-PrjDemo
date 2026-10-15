@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Oct 11 20:03:35 2026
+# Process ID: 27400
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.runs/ram_256x8_truedual_synth_1
+# Command line: vivado.exe -log ram_256x8_truedual.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ram_256x8_truedual.tcl
+# Log file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/ram_256x8_truedual_synth_1/ram_256x8_truedual.vds
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/ram_256x8_truedual_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ram_256x8_truedual.tcl -notrace

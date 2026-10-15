@@ -1,0 +1,7 @@
+Running: xsim.dir/sim_tb_top_behav/xsimk.exe -simmode gui -testplusarg model_data+D:/code/SystemVerilog/native_ddr3_bfm_ex/native_ddr3_bfm_ex.sim/sim_1/behav/xsim -wdb sim_tb_top_behav.wdb -simrunnum 0 -socket 4006
+Design successfully loaded
+Design Loading Memory Usage: 23596 KB (Peak: 23596 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 33824 KB (Peak: 33824 KB)
+Simulation CPU Usage: 1296 ms

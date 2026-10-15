@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_ddr3_axi_demo" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+   </zoom_setting>
+   <column_width_setting>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="group1" type="group">
+      <obj_property name="label">01 Overview</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_axi_demo/ui_clk" type="logic">
+         <obj_property name="ElementShortName">ui_clk</obj_property>
+         <obj_property name="ObjectShortName">ui_clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/calib_done" type="logic">
+         <obj_property name="ElementShortName">calib_done</obj_property>
+         <obj_property name="ObjectShortName">calib_done</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/done" type="logic">
+         <obj_property name="ElementShortName">done</obj_property>
+         <obj_property name="ObjectShortName">done</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/pass" type="logic">
+         <obj_property name="ElementShortName">pass</obj_property>
+         <obj_property name="ObjectShortName">pass</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/error_count" type="array">
+         <obj_property name="ElementShortName">error_count[15:0]</obj_property>
+         <obj_property name="ObjectShortName">error_count[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/aw_count" type="array">
+         <obj_property name="ElementShortName">aw_count[7:0]</obj_property>
+         <obj_property name="ObjectShortName">aw_count[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/w_count" type="array">
+         <obj_property name="ElementShortName">w_count[7:0]</obj_property>
+         <obj_property name="ObjectShortName">w_count[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/b_count" type="array">
+         <obj_property name="ElementShortName">b_count[7:0]</obj_property>
+         <obj_property name="ObjectShortName">b_count[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/ar_count" type="array">
+         <obj_property name="ElementShortName">ar_count[7:0]</obj_property>
+         <obj_property name="ObjectShortName">ar_count[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/r_count" type="array">
+         <obj_property name="ElementShortName">r_count[7:0]</obj_property>
+         <obj_property name="ObjectShortName">r_count[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group12" type="group">
+      <obj_property name="label">02 Write AXI</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_axi_demo/awvalid" type="logic">
+         <obj_property name="ElementShortName">awvalid</obj_property>
+         <obj_property name="ObjectShortName">awvalid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/awready" type="logic">
+         <obj_property name="ElementShortName">awready</obj_property>
+         <obj_property name="ObjectShortName">awready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/aw_fire" type="logic">
+         <obj_property name="ElementShortName">aw_fire</obj_property>
+         <obj_property name="ObjectShortName">aw_fire</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/awaddr" type="array">
+         <obj_property name="ElementShortName">awaddr[29:0]</obj_property>
+         <obj_property name="ObjectShortName">awaddr[29:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/awlen" type="array">
+         <obj_property name="ElementShortName">awlen[7:0]</obj_property>
+         <obj_property name="ObjectShortName">awlen[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/wvalid" type="logic">
+         <obj_property name="ElementShortName">wvalid</obj_property>
+         <obj_property name="ObjectShortName">wvalid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/wready" type="logic">
+         <obj_property name="ElementShortName">wready</obj_property>
+         <obj_property name="ObjectShortName">wready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/w_fire" type="logic">
+         <obj_property name="ElementShortName">w_fire</obj_property>
+         <obj_property name="ObjectShortName">w_fire</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/write_word_number" type="array">
+         <obj_property name="ElementShortName">write_word_number[7:0]</obj_property>
+         <obj_property name="ObjectShortName">write_word_number[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/write_word_data" type="array">
+         <obj_property name="ElementShortName">write_word_data[63:0]</obj_property>
+         <obj_property name="ObjectShortName">write_word_data[63:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/wlast" type="logic">
+         <obj_property name="ElementShortName">wlast</obj_property>
+         <obj_property name="ObjectShortName">wlast</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/bvalid" type="logic">
+         <obj_property name="ElementShortName">bvalid</obj_property>
+         <obj_property name="ObjectShortName">bvalid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/bready" type="logic">
+         <obj_property name="ElementShortName">bready</obj_property>
+         <obj_property name="ObjectShortName">bready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/b_fire" type="logic">
+         <obj_property name="ElementShortName">b_fire</obj_property>
+         <obj_property name="ObjectShortName">b_fire</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/bresp" type="array">
+         <obj_property name="ElementShortName">bresp[1:0]</obj_property>
+         <obj_property name="ObjectShortName">bresp[1:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group28" type="group">
+      <obj_property name="label">03 Read AXI</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_axi_demo/arvalid" type="logic">
+         <obj_property name="ElementShortName">arvalid</obj_property>
+         <obj_property name="ObjectShortName">arvalid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/arready" type="logic">
+         <obj_property name="ElementShortName">arready</obj_property>
+         <obj_property name="ObjectShortName">arready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/ar_fire" type="logic">
+         <obj_property name="ElementShortName">ar_fire</obj_property>
+         <obj_property name="ObjectShortName">ar_fire</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/araddr" type="array">
+         <obj_property name="ElementShortName">araddr[29:0]</obj_property>
+         <obj_property name="ObjectShortName">araddr[29:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/arlen" type="array">
+         <obj_property name="ElementShortName">arlen[7:0]</obj_property>
+         <obj_property name="ObjectShortName">arlen[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/rvalid" type="logic">
+         <obj_property name="ElementShortName">rvalid</obj_property>
+         <obj_property name="ObjectShortName">rvalid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/rready" type="logic">
+         <obj_property name="ElementShortName">rready</obj_property>
+         <obj_property name="ObjectShortName">rready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/r_fire" type="logic">
+         <obj_property name="ElementShortName">r_fire</obj_property>
+         <obj_property name="ObjectShortName">r_fire</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/read_word_number" type="array">
+         <obj_property name="ElementShortName">read_word_number[7:0]</obj_property>
+         <obj_property name="ObjectShortName">read_word_number[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/read_word_data" type="array">
+         <obj_property name="ElementShortName">read_word_data[63:0]</obj_property>
+         <obj_property name="ObjectShortName">read_word_data[63:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/read_word_expected" type="array">
+         <obj_property name="ElementShortName">read_word_expected[63:0]</obj_property>
+         <obj_property name="ObjectShortName">read_word_expected[63:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/read_word_ok" type="logic">
+         <obj_property name="ElementShortName">read_word_ok</obj_property>
+         <obj_property name="ObjectShortName">read_word_ok</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/rlast" type="logic">
+         <obj_property name="ElementShortName">rlast</obj_property>
+         <obj_property name="ObjectShortName">rlast</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/rresp" type="array">
+         <obj_property name="ElementShortName">rresp[1:0]</obj_property>
+         <obj_property name="ObjectShortName">rresp[1:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group43" type="group">
+      <obj_property name="label">04 Burst details</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_axi_demo/write_burst_beats" type="array">
+         <obj_property name="ElementShortName">write_burst_beats[2:0]</obj_property>
+         <obj_property name="ObjectShortName">write_burst_beats[2:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/read_burst_beats" type="array">
+         <obj_property name="ElementShortName">read_burst_beats[2:0]</obj_property>
+         <obj_property name="ObjectShortName">read_burst_beats[2:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/awsize" type="array">
+         <obj_property name="ElementShortName">awsize[2:0]</obj_property>
+         <obj_property name="ObjectShortName">awsize[2:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/awburst" type="array">
+         <obj_property name="ElementShortName">awburst[1:0]</obj_property>
+         <obj_property name="ObjectShortName">awburst[1:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/wstrb" type="array">
+         <obj_property name="ElementShortName">wstrb[7:0]</obj_property>
+         <obj_property name="ObjectShortName">wstrb[7:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/arsize" type="array">
+         <obj_property name="ElementShortName">arsize[2:0]</obj_property>
+         <obj_property name="ObjectShortName">arsize[2:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/arburst" type="array">
+         <obj_property name="ElementShortName">arburst[1:0]</obj_property>
+         <obj_property name="ObjectShortName">arburst[1:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/wdata" type="array">
+         <obj_property name="ElementShortName">wdata[63:0]</obj_property>
+         <obj_property name="ObjectShortName">wdata[63:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/rdata" type="array">
+         <obj_property name="ElementShortName">rdata[63:0]</obj_property>
+         <obj_property name="ObjectShortName">rdata[63:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group53" type="group">
+      <obj_property name="label">05 DDR model</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_ddr3_axi_demo/sys_rst" type="logic">
+         <obj_property name="ElementShortName">sys_rst</obj_property>
+         <obj_property name="ObjectShortName">sys_rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/ui_rst" type="logic">
+         <obj_property name="ElementShortName">ui_rst</obj_property>
+         <obj_property name="ObjectShortName">ui_rst</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/axi_resetn" type="logic">
+         <obj_property name="ElementShortName">axi_resetn</obj_property>
+         <obj_property name="ObjectShortName">axi_resetn</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/ddr_reset_n" type="logic">
+         <obj_property name="ElementShortName">ddr_reset_n</obj_property>
+         <obj_property name="ObjectShortName">ddr_reset_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/ddr_ck_p" type="array">
+         <obj_property name="ElementShortName">ddr_ck_p[0:0]</obj_property>
+         <obj_property name="ObjectShortName">ddr_ck_p[0:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/model_ck_p" type="array">
+         <obj_property name="ElementShortName">model_ck_p[0:0]</obj_property>
+         <obj_property name="ObjectShortName">model_ck_p[0:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_ddr3_axi_demo/ddr_cke" type="array">
+         <obj_property name="ElementShortName">ddr_cke[0:0]</obj_property>
+         <obj_property name="ObjectShortName">ddr_cke[0:0]</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>

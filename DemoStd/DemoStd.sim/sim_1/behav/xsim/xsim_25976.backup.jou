@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# xsim v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Oct 14 17:16:30 2026
+# Process ID: 25976
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim
+# Command line: xsim.exe -log D:/code/SystemVerilog/ddr3_check.log -mode tcl -source {xsim.dir/tb_ddr3_axi_demo_check/xsim_script.tcl}
+# Log file: D:/code/SystemVerilog/ddr3_check.log
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.sim/sim_1/behav/xsim\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/tb_ddr3_axi_demo_check/xsim_script.tcl
+source D:/code/SystemVerilog/DemoStd/DemoStd.srcs/sim_1/DDR3demo/axi_wave.tcl

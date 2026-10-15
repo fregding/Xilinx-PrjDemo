@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Oct 11 17:25:40 2026
+# Process ID: 24240
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.runs/pll_ip_synth_1
+# Command line: vivado.exe -log pll_ip.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pll_ip.tcl
+# Log file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/pll_ip_synth_1/pll_ip.vds
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/pll_ip_synth_1\vivado.jou
+#-----------------------------------------------------------
+source pll_ip.tcl -notrace

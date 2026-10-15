@@ -1,0 +1,731 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Partial Array Self Refresh = Bank 0-7
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 CAS Write Latency =           5
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Auto Self Refresh = Disabled
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Self Refresh Temperature = Normal
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Dynamic ODT = Disabled
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Partial Array Self Refresh = Bank 0-7
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 CAS Write Latency =           5
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Auto Self Refresh = Disabled
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Self Refresh Temperature = Normal
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7748134.0 ps INFO: Load Mode 2 Dynamic ODT = Disabled
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7785634.0 ps INFO: Load Mode 3
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7785634.0 ps INFO: Load Mode 3 MultiPurpose Register Select = Pre-defined pattern
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7785634.0 ps INFO: Load Mode 3 MultiPurpose Register Enable = Disabled
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7785634.0 ps INFO: Load Mode 3
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7785634.0 ps INFO: Load Mode 3 MultiPurpose Register Select = Pre-defined pattern
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7785634.0 ps INFO: Load Mode 3 MultiPurpose Register Enable = Disabled
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 DLL Enable = Enabled
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Output Drive Strength =          40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 ODT Rtt =          40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Additive Latency = 0
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Write Levelization = Disabled
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 TDQS Enable = Disabled
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Qoff = Enabled
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 DLL Enable = Enabled
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Output Drive Strength =          40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 ODT Rtt =          40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Additive Latency = 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Write Levelization = Disabled
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 TDQS Enable = Disabled
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7823135.0 ps INFO: Load Mode 1 Qoff = Enabled
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Burst Length =  8
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Burst Order = Sequential
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 CAS Latency =           6
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 DLL Reset = Reset DLL
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Write Recovery =           5
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Power Down Mode = DLL off
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Burst Length =  8
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Burst Order = Sequential
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 CAS Latency =           6
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 DLL Reset = Reset DLL
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Write Recovery =           5
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7860636.0 ps INFO: Load Mode 0 Power Down Mode = DLL off
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7923137.0 ps INFO: ZQ        long = 1
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 7923137.0 ps INFO: Initialization Sequence is complete
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7923137.0 ps INFO: ZQ        long = 1
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 7923137.0 ps INFO: Initialization Sequence is complete
+DDR3 calibration complete at 9527000.0 ps
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9648172.0 ps INFO: Activate  bank 0 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9648172.0 ps INFO: Activate  bank 0 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9670047.0 ps INFO: Write     bank 0 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9670047.0 ps INFO: Write     bank 0 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9679422.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9679422.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9687235.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000000 data = 0201
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9687235.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000000 data = 0403
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9688797.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9688797.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9690361.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9690361.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9691923.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9691923.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9693486.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9693486.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9695048.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9695048.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9696611.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9696611.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9698173.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9698173.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9698173.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9698173.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9710673.0 ps INFO: Activate  bank 2 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9710673.0 ps INFO: Activate  bank 2 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9732548.0 ps INFO: Write     bank 2 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9732548.0 ps INFO: Write     bank 2 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9741924.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9741924.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9749737.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000000 data = 0605
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9749737.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000000 data = 0807
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9751299.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9751299.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9752862.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9752862.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9754424.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9754424.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9755987.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9755987.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9757549.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9757549.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9759112.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9759112.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9760674.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9760674.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9760674.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9760674.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9773174.0 ps INFO: Activate  bank 4 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9773174.0 ps INFO: Activate  bank 4 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9795050.0 ps INFO: Write     bank 4 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9795050.0 ps INFO: Write     bank 4 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9804425.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9804425.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9812238.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000000 data = 0a09
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9812238.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000000 data = 0c0b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9813800.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9813800.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9815363.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9815363.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9816925.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9816925.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9818488.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9818488.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9820050.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9820050.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9821613.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9821613.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9823175.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9823175.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9823175.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9823175.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9835675.0 ps INFO: Activate  bank 6 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9835675.0 ps INFO: Activate  bank 6 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9857551.0 ps INFO: Write     bank 6 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9857551.0 ps INFO: Write     bank 6 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9866926.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9866926.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9874739.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000000 data = 0e0d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9874739.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000000 data = 100f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9876301.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9876301.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9877864.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9877864.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9879426.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9879426.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9880989.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9880989.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9882551.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9882551.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9884114.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9884114.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9885676.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9885676.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9885676.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9885676.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9898177.0 ps INFO: Activate  bank 1 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9898177.0 ps INFO: Activate  bank 1 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9920052.0 ps INFO: Write     bank 1 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9920052.0 ps INFO: Write     bank 1 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9929427.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9929427.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9937240.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000000 data = 1211
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9937240.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000000 data = 1413
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9938802.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9938802.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9940366.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9940366.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9941928.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9941928.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9943491.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9943491.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9945053.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9945053.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9946616.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9946616.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9948178.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9948178.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9948178.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9948178.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9960678.0 ps INFO: Activate  bank 3 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9960678.0 ps INFO: Activate  bank 3 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 9982553.0 ps INFO: Write     bank 3 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 9982553.0 ps INFO: Write     bank 3 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 9991929.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 9991929.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 9999742.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000000 data = 1615
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 9999742.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000000 data = 1817
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10001304.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10001304.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10002867.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10002867.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10004429.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10004429.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10005992.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10005992.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10007554.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10007554.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10009117.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10009117.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10010679.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10010679.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10010679.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10010679.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10023179.0 ps INFO: Activate  bank 5 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10023179.0 ps INFO: Activate  bank 5 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10045055.0 ps INFO: Write     bank 5 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10045055.0 ps INFO: Write     bank 5 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10054430.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10054430.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10062243.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000000 data = 1a19
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10062243.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000000 data = 1c1b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10063805.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10063805.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10065368.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10065368.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10066930.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10066930.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10068493.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10068493.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10070055.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10070055.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10071618.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10071618.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10073180.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10073180.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10073180.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10073180.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10085680.0 ps INFO: Activate  bank 7 row 0000
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10085680.0 ps INFO: Activate  bank 7 row 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10107556.0 ps INFO: Write     bank 7 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10107556.0 ps INFO: Write     bank 7 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10116931.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10116931.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10124744.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000000 data = 1e1d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10124744.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000000 data = 201f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10126306.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10126306.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10127869.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10127869.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10129431.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10129431.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10130994.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10130994.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10132556.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10132556.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10134119.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10134119.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10135681.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10135681.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10135681.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10135681.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10145057.0 ps INFO: Write     bank 0 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10145057.0 ps INFO: Write     bank 0 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10154432.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10154432.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10162245.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000008 data = 2221
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10162245.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000008 data = 2423
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10163807.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10163807.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10165370.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10165370.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10166932.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10166932.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10168495.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10168495.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10170057.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10170057.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10171620.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10171620.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10173182.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10173182.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10173182.0 ps INFO: WRITE @ DQS= bank = 0 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10173182.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10207558.0 ps INFO: Write     bank 2 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10207558.0 ps INFO: Write     bank 2 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10216933.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10216933.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10224746.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000008 data = 2625
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10224746.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000008 data = 2827
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10226308.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10226308.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10227871.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10227871.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10229433.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10229433.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10230996.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10230996.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10232558.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10232558.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10234121.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10234121.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10235683.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10235683.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10235683.0 ps INFO: WRITE @ DQS= bank = 2 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10235683.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10270059.0 ps INFO: Write     bank 4 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10270059.0 ps INFO: Write     bank 4 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10279434.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10279434.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10287247.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000008 data = 2a29
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10287247.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000008 data = 2c2b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10288809.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10288809.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10290373.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10290373.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10291935.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10291935.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10293498.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10293498.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10295060.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10295060.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10296623.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10296623.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10298185.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10298185.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10298185.0 ps INFO: WRITE @ DQS= bank = 4 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10298185.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10332560.0 ps INFO: Write     bank 6 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10332560.0 ps INFO: Write     bank 6 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10341936.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10341936.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10349749.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000008 data = 2e2d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10349749.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000008 data = 302f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10351311.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10351311.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10352874.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10352874.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10354436.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10354436.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10355999.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10355999.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10357561.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10357561.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10359124.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10359124.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10360686.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10360686.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10360686.0 ps INFO: WRITE @ DQS= bank = 6 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10360686.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10395062.0 ps INFO: Write     bank 1 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10395062.0 ps INFO: Write     bank 1 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10404437.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10404437.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10412250.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000008 data = 3231
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10412250.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000008 data = 3433
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10413812.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10413812.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10415375.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10415375.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10416937.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10416937.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10418500.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10418500.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10420062.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10420062.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10421625.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10421625.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10423187.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10423187.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10423187.0 ps INFO: WRITE @ DQS= bank = 1 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10423187.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10457563.0 ps INFO: Write     bank 3 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10457563.0 ps INFO: Write     bank 3 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10466938.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10466938.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10474751.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000008 data = 3635
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10474751.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000008 data = 3837
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10476313.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10476313.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10477876.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10477876.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10479438.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10479438.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10481001.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10481001.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10482563.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10482563.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10484126.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10484126.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10485688.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10485688.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10485688.0 ps INFO: WRITE @ DQS= bank = 3 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10485688.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10520064.0 ps INFO: Write     bank 5 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10520064.0 ps INFO: Write     bank 5 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10529439.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10529439.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10537252.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000008 data = 3a39
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10537252.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000008 data = 3c3b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10538814.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10538814.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10540378.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10540378.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10541940.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10541940.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10543503.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10543503.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10545065.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10545065.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10546628.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10546628.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10548190.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10548190.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10548190.0 ps INFO: WRITE @ DQS= bank = 5 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10548190.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10582565.0 ps INFO: Write     bank 7 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10582565.0 ps INFO: Write     bank 7 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10591941.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10591941.0 ps INFO: Sync On Die Termination Rtt_NOM =         40 Ohm
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10599754.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000008 data = 3e3d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10599754.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000008 data = 403f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10601316.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10601316.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10602879.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10602879.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10604441.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10604441.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10606004.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10606004.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10607566.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10607566.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10609129.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10609129.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10610691.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .main: at time 10610691.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10610691.0 ps INFO: WRITE @ DQS= bank = 7 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .main: at time 10610691.0 ps INFO: Sync On Die Termination Rtt_NOM =          0 Ohm
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10645067.0 ps INFO: Read      bank 0 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10645067.0 ps INFO: Read      bank 0 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10662255.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000000 data = 0201
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10662255.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000000 data = 0403
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10663817.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10663817.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10665380.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10665380.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10666942.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10666942.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10668505.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10668505.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10670067.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10670067.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10671630.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10671630.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10673192.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10673192.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10795070.0 ps INFO: Read      bank 1 col 001, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10795070.0 ps INFO: Read      bank 1 col 001, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10812258.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10812258.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10813820.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10813820.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10815383.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10815383.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10816945.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000000 data = 1211
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10816945.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000000 data = 1413
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10818508.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10818508.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10820070.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10820070.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10821633.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10821633.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10823195.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10823195.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 10907572.0 ps INFO: Read      bank 2 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 10907572.0 ps INFO: Read      bank 2 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10924760.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000000 data = 0605
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10924760.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000000 data = 0807
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10926322.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10926322.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10927885.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10927885.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10929447.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10929447.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10931010.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10931010.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10932572.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10932572.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10934135.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10934135.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 10935697.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 10935697.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 11170077.0 ps INFO: Read      bank 4 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 11170077.0 ps INFO: Read      bank 4 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11187265.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000000 data = 0a09
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11187265.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000000 data = 0c0b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11188827.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11188827.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11190391.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11190391.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11191953.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11191953.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11193516.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11193516.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11195078.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11195078.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11196641.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11196641.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11198203.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11198203.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 11432582.0 ps INFO: Read      bank 6 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 11432582.0 ps INFO: Read      bank 6 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11449771.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000000 data = 0e0d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11449771.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000000 data = 100f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11451333.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11451333.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11452896.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11452896.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11454458.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11454458.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11456021.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11456021.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11457583.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11457583.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11459146.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11459146.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11460708.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11460708.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 11695088.0 ps INFO: Read      bank 1 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 11695088.0 ps INFO: Read      bank 1 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11712276.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000000 data = 1211
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11712276.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000000 data = 1413
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11713838.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11713838.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11715401.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11715401.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11716963.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11716963.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11718526.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11718526.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11720088.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11720088.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11721651.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11721651.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11723213.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11723213.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 11957593.0 ps INFO: Read      bank 3 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 11957593.0 ps INFO: Read      bank 3 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11974781.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000000 data = 1615
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11974781.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000000 data = 1817
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11976343.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11976343.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11977906.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11977906.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11979468.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11979468.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11981031.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11981031.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11982593.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11982593.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11984156.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11984156.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 11985718.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 11985718.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 12220098.0 ps INFO: Read      bank 5 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 12220098.0 ps INFO: Read      bank 5 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12237286.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000000 data = 1a19
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12237286.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000000 data = 1c1b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12238848.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12238848.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12240412.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12240412.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12241974.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12241974.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12243537.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12243537.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12245099.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12245099.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12246662.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12246662.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12248224.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12248224.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 12482603.0 ps INFO: Read      bank 7 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 12482603.0 ps INFO: Read      bank 7 col 000, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12499792.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000000 data = 1e1d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12499792.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000000 data = 201f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12501354.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12501354.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000001 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12502917.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12502917.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000002 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12504479.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12504479.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000003 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12506042.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12506042.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000004 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12507604.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12507604.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000005 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12509167.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12509167.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000006 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12510729.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12510729.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000007 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 12745109.0 ps INFO: Read      bank 0 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 12745109.0 ps INFO: Read      bank 0 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12762297.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000008 data = 2221
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12762297.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000008 data = 2423
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12763859.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12763859.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12765422.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12765422.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12766984.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12766984.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12768547.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12768547.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12770109.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12770109.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12771672.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12771672.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 12773234.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 12773234.0 ps INFO: READ @ DQS= bank = 0 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 13007614.0 ps INFO: Read      bank 2 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 13007614.0 ps INFO: Read      bank 2 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13024802.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000008 data = 2625
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13024802.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000008 data = 2827
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13026364.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13026364.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13027927.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13027927.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13029489.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13029489.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13031052.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13031052.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13032614.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13032614.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13034177.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13034177.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13035739.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13035739.0 ps INFO: READ @ DQS= bank = 2 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 13270119.0 ps INFO: Read      bank 4 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 13270119.0 ps INFO: Read      bank 4 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13287307.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000008 data = 2a29
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13287307.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000008 data = 2c2b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13288869.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13288869.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13290433.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13290433.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13291995.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13291995.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13293558.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13293558.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13295120.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13295120.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13296683.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13296683.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13298245.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13298245.0 ps INFO: READ @ DQS= bank = 4 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 13532624.0 ps INFO: Read      bank 6 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 13532624.0 ps INFO: Read      bank 6 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13549813.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000008 data = 2e2d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13549813.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000008 data = 302f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13551375.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13551375.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13552938.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13552938.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13554500.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13554500.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13556063.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13556063.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13557625.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13557625.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13559188.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13559188.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13560750.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13560750.0 ps INFO: READ @ DQS= bank = 6 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 13795130.0 ps INFO: Read      bank 1 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 13795130.0 ps INFO: Read      bank 1 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13812318.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000008 data = 3231
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13812318.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000008 data = 3433
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13813880.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13813880.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13815443.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13815443.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13817005.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13817005.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13818568.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13818568.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13820130.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13820130.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13821693.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13821693.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 13823255.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 13823255.0 ps INFO: READ @ DQS= bank = 1 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 14057635.0 ps INFO: Read      bank 3 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 14057635.0 ps INFO: Read      bank 3 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14074823.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000008 data = 3635
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14074823.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000008 data = 3837
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14076385.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14076385.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14077948.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14077948.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14079510.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14079510.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14081073.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14081073.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14082635.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14082635.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14084198.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14084198.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14085760.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14085760.0 ps INFO: READ @ DQS= bank = 3 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 14320140.0 ps INFO: Read      bank 5 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 14320140.0 ps INFO: Read      bank 5 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14337328.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000008 data = 3a39
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14337328.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000008 data = 3c3b
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14338890.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14338890.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14340454.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14340454.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14342016.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14342016.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14343579.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14343579.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14345141.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14345141.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14346704.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14346704.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14348266.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14348266.0 ps INFO: READ @ DQS= bank = 5 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[0].chip .cmd_task: at time 14582645.0 ps INFO: Read      bank 7 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[1].chip .cmd_task: at time 14582645.0 ps INFO: Read      bank 7 col 008, auto precharge 0
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14599834.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000008 data = 3e3d
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14599834.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000008 data = 403f
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14601396.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14601396.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 00000009 data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14602959.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14602959.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000a data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14604521.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14604521.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000b data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14606084.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14606084.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000c data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14607646.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14607646.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000d data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14609209.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14609209.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000e data = 0000
+tb_ddr3_native_demo.\memory[0].chip .data_task: at time 14610771.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000f data = 0000
+tb_ddr3_native_demo.\memory[1].chip .data_task: at time 14610771.0 ps INFO: READ @ DQS= bank = 7 row = 0000 col = 0000000f data = 0000
+DDR3 Native PASS: WC=16 W=64 RC=16 RD=16 R=64, 64 words verified
+$finish called at time : 14840580 ps : File "D:/code/SystemVerilog/DemoStd/DemoStd.srcs/sim_1/DDR3demo/tb_ddr3_native_demo.sv" Line 213

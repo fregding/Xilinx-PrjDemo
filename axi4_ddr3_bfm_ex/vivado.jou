@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Oct 13 20:41:05 2026
+# Process ID: 5444
+# Current directory: D:/code/SystemVerilog/axi4_ddr3_bfm_ex
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23252 D:\code\SystemVerilog\axi4_ddr3_bfm_ex\axi4_ddr3_bfm_ex.xpr
+# Log file: D:/code/SystemVerilog/axi4_ddr3_bfm_ex/vivado.log
+# Journal file: D:/code/SystemVerilog/axi4_ddr3_bfm_ex\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/code/SystemVerilog/axi4_ddr3_bfm_ex/axi4_ddr3_bfm_ex.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source sim_tb_top.tcl
+close_sim
+launch_simulation
+source sim_tb_top.tcl
+close_sim
+launch_simulation
+source sim_tb_top.tcl
+-testplusarg model_data+D:/code/SystemVerilog/axi4_ddr3_bfm_ex/axi4_ddr3_bfm_ex.sim/sim_1/behav/xsim
+set_property -name {xsim.simulate.xsim.more_options} -value {-testplusarg model_data+D:/code/SystemVerilog/axi4_ddr3_bfm_ex/axi4_ddr3_bfm_ex.sim/sim_1/behav/xsim} -objects [get_filesets sim_1]
+close_sim
+launch_simulation
+source sim_tb_top.tcl
+close_sim
+close_project
+open_project D:/code/SystemVerilog/DemoStd/DemoStd.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project D:/code/SystemVerilog/axi4_ddr3_bfm_ex/axi4_ddr3_bfm_ex.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source sim_tb_top.tcl
+run 1 ms
+relaunch_sim
+run 1 ms
+relaunch_sim
+run 100 us
+close_sim

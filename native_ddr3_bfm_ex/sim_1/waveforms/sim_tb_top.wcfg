@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sim_tb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+   </zoom_setting>
+   <column_width_setting>
+   </column_width_setting>
+   <WVObjectSize size="3" />
+   <wvobject fp_name="group1" type="group">
+      <obj_property name="label">01 Status</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_clk" type="logic"><obj_property name="ElementShortName">c0_ddr3_clk</obj_property><obj_property name="ObjectShortName">c0_ddr3_clk</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/c0_init_calib_complete" type="logic"><obj_property name="ElementShortName">c0_init_calib_complete</obj_property><obj_property name="ObjectShortName">c0_init_calib_complete</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_wr_rd_complete" type="logic"><obj_property name="ElementShortName">c0_wr_rd_complete</obj_property><obj_property name="ObjectShortName">c0_wr_rd_complete</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/c0_data_compare_error" type="logic"><obj_property name="ElementShortName">c0_data_compare_error</obj_property><obj_property name="ObjectShortName">c0_data_compare_error</obj_property></wvobject>
+   </wvobject>
+   <wvobject fp_name="group2" type="group">
+      <obj_property name="label">02 Native command</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_addr" type="array"><obj_property name="ElementShortName">c0_ddr3_app_addr[26:0]</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_addr[26:0]</obj_property><obj_property name="Radix">HEXRADIX</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_cmd" type="array"><obj_property name="ElementShortName">c0_ddr3_app_cmd[2:0]</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_cmd[2:0]</obj_property><obj_property name="Radix">UNSIGNEDDECRADIX</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_en" type="logic"><obj_property name="ElementShortName">c0_ddr3_app_en</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_en</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_rdy" type="logic"><obj_property name="ElementShortName">c0_ddr3_app_rdy</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_rdy</obj_property></wvobject>
+   </wvobject>
+   <wvobject fp_name="group3" type="group">
+      <obj_property name="label">03 Native write and read</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_wdf_data" type="array"><obj_property name="ElementShortName">c0_ddr3_app_wdf_data[255:0]</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_wdf_data[255:0]</obj_property><obj_property name="Radix">HEXRADIX</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_wdf_mask" type="array"><obj_property name="ElementShortName">c0_ddr3_app_wdf_mask[31:0]</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_wdf_mask[31:0]</obj_property><obj_property name="Radix">HEXRADIX</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_wdf_wren" type="logic"><obj_property name="ElementShortName">c0_ddr3_app_wdf_wren</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_wdf_wren</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_wdf_rdy" type="logic"><obj_property name="ElementShortName">c0_ddr3_app_wdf_rdy</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_wdf_rdy</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_wdf_end" type="logic"><obj_property name="ElementShortName">c0_ddr3_app_wdf_end</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_wdf_end</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_rd_data" type="array"><obj_property name="ElementShortName">c0_ddr3_app_rd_data[255:0]</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_rd_data[255:0]</obj_property><obj_property name="Radix">HEXRADIX</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_rd_data_valid" type="logic"><obj_property name="ElementShortName">c0_ddr3_app_rd_data_valid</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_rd_data_valid</obj_property></wvobject>
+      <wvobject fp_name="/sim_tb_top/u_example_top/c0_ddr3_app_rd_data_end" type="logic"><obj_property name="ElementShortName">c0_ddr3_app_rd_data_end</obj_property><obj_property name="ObjectShortName">c0_ddr3_app_rd_data_end</obj_property></wvobject>
+   </wvobject>
+</wave_config>

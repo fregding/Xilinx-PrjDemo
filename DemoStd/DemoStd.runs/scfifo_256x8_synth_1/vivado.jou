@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Oct 11 20:47:10 2026
+# Process ID: 1280
+# Current directory: D:/code/SystemVerilog/DemoStd/DemoStd.runs/scfifo_256x8_synth_1
+# Command line: vivado.exe -log scfifo_256x8.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source scfifo_256x8.tcl
+# Log file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/scfifo_256x8_synth_1/scfifo_256x8.vds
+# Journal file: D:/code/SystemVerilog/DemoStd/DemoStd.runs/scfifo_256x8_synth_1\vivado.jou
+#-----------------------------------------------------------
+source scfifo_256x8.tcl -notrace
