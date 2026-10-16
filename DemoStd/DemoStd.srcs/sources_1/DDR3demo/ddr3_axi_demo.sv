@@ -144,14 +144,14 @@ module ddr3_axi_demo (
                 READ_DATA: begin
                     if (rvalid && rready) begin
                         // 同时检查读响应、数据内容及突发末拍标志
-                        if (rid != 4'd0 || rresp != 2'b00 || rdata !== expected_data ||
+                        if (rid != 4'd0 || rresp != 2'b00 || rdata != expected_data ||
                             rlast != (beat_index == 3'd7))
                             error_count <= error_count + 16'd1;
                         if (beat_index == 3'd7) begin
                             if (burst_index == 3'd7) begin
                                 done <= 1'b1;
                                 pass <= error_count == 16'd0 && rid == 4'd0 &&
-                                        rresp == 2'b00 && rdata === expected_data && rlast;
+                                        rresp == 2'b00 && rdata == expected_data && rlast;
                                 state <= FINISHED;
                             end else begin
                                 burst_index <= burst_index + 3'd1;
