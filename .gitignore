@@ -1,0 +1,23 @@
+# Vivado 生成目录（可由 .xpr/.xci 重新生成）
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.hbs/
+*.ip_user_files/
+*.gen/
+*.Xil/
+xsim.dir/
+
+# Vivado 运行日志与临时文件
+*.jou
+*.log
+*.pb
+*.wdb
+*.vcd
+*.str
+.hdi.isWriteableTest*.tmp
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db

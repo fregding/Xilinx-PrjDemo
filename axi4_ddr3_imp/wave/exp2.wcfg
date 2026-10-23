@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_axi_exp" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+   </zoom_setting>
+   <column_width_setting>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="group1" type="group">
+      <obj_property name="label">00_TIME</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_axi_exp/aclk" type="logic">
+         <obj_property name="ElementShortName">aclk</obj_property>
+         <obj_property name="ObjectShortName">aclk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/cyc" type="array">
+         <obj_property name="ElementShortName">cyc[31:0]</obj_property>
+         <obj_property name="ObjectShortName">cyc[31:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group2" type="group">
+      <obj_property name="label">01_AW</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_axi_exp/m_awvalid" type="logic">
+         <obj_property name="ElementShortName">m_awvalid</obj_property>
+         <obj_property name="ObjectShortName">m_awvalid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/m_awready" type="logic">
+         <obj_property name="ElementShortName">m_awready</obj_property>
+         <obj_property name="ObjectShortName">m_awready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/m_awaddr" type="array">
+         <obj_property name="ElementShortName">m_awaddr[27:0]</obj_property>
+         <obj_property name="ObjectShortName">m_awaddr[27:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/m_awlen" type="array">
+         <obj_property name="ElementShortName">m_awlen[7:0]</obj_property>
+         <obj_property name="ObjectShortName">m_awlen[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/m_awburst" type="array">
+         <obj_property name="ElementShortName">m_awburst[1:0]</obj_property>
+         <obj_property name="ObjectShortName">m_awburst[1:0]</obj_property>
+         <obj_property name="Radix">BINARYRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group3" type="group">
+      <obj_property name="label">02_W</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_axi_exp/m_wvalid" type="logic">
+         <obj_property name="ElementShortName">m_wvalid</obj_property>
+         <obj_property name="ObjectShortName">m_wvalid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/m_wready" type="logic">
+         <obj_property name="ElementShortName">m_wready</obj_property>
+         <obj_property name="ObjectShortName">m_wready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/m_wdata" type="array">
+         <obj_property name="ElementShortName">m_wdata[31:0]</obj_property>
+         <obj_property name="ObjectShortName">m_wdata[31:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/m_wlast" type="logic">
+         <obj_property name="ElementShortName">m_wlast</obj_property>
+         <obj_property name="ObjectShortName">m_wlast</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group4" type="group">
+      <obj_property name="label">03_SLAVE</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_axi_exp/u_slave/w_base" type="array">
+         <obj_property name="ElementShortName">w_base[27:0]</obj_property>
+         <obj_property name="ObjectShortName">w_base[27:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/u_slave/w_beat" type="array">
+         <obj_property name="ElementShortName">w_beat[31:0]</obj_property>
+         <obj_property name="ObjectShortName">w_beat[31:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group5" type="group">
+      <obj_property name="label">04_RESULT</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_axi_exp/exp_fail" type="array">
+         <obj_property name="ElementShortName">exp_fail[31:0]</obj_property>
+         <obj_property name="ObjectShortName">exp_fail[31:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_axi_exp/chk_err_cnt" type="array">
+         <obj_property name="ElementShortName">chk_err_cnt[31:0]</obj_property>
+         <obj_property name="ObjectShortName">chk_err_cnt[31:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>
